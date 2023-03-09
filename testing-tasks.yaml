@@ -1,0 +1,4 @@
+inputs:
+  - id: texterino
+    name: Random text
+command: echo "${{ inputs.texterino }}"
